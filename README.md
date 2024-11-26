@@ -6,8 +6,8 @@
 ## 🌸 About Me
 - 👨‍💻 I’m a passionate **Developer** , **Tech Enthusiast** and **Engg. Manager**
 - 📖 Currently learning **[Integrations, ERP's , Machine Learning e.g.,Python, React, Node.js, ML pipeline ,BOT trainning]**
-- Some of core areas include **CI/CD, Process Definition, Enterprise data patterns**
-- 🎨 Enthusiast **Gamer** :)!
+- 📖 Some of core areas include **CI/CD, Process Definition, Enterprise data patterns**
+- 🎮 Enthusiast **Gamer** :)!
 - 🎨 Huge fan of **Anime** and creative coding!
 
 ---
