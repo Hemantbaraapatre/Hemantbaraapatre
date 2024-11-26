@@ -57,7 +57,7 @@ I can spend hours discussing the best fights in anime while debugging code. 😅
 
 ## 💬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/hemant-baraapatre/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourprofile">
