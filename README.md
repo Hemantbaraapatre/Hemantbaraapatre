@@ -1,10 +1,12 @@
 # Hi there! 👋 I'm Hemant Baraapatre 🚀
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20World!&fontAlign=50&fontAlignY=50&height=200)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Welcome%20to%20My%20World!&fontAlign=50&fontAlignY=50&height=200)
+
 
 ## 🌸 About Me
-- 👨‍💻 I’m a passionate **Developer** and **Tech Enthusiast**
-- 📖 Currently learning **[Your Tech Stack, e.g., React, Node.js]**
+- 👨‍💻 I’m a passionate **Developer** , **Tech Enthusiast** and **Engg. Manager**
+- 📖 Currently learning **[Integration, ERP , Machine Learning e.g.,Python, React, Node.js, ML pipeline ,BOT trainning]**
+- 🎨 Enthusiast **Gamer** :)!
 - 🎨 Huge fan of **Anime** and creative coding!
 
 ---
